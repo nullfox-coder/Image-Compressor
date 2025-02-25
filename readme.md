@@ -79,7 +79,7 @@ npm run dev
 
 # CURL -
 
-## I have attached a sample_test_data.csv in my dir to test
+## I have attached a sample_test_data.csv in my dir to test Just download the file and test with the given curl
 
  ## Upload
 ```
