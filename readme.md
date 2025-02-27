@@ -70,11 +70,6 @@ npm run dev
 http://34.46.28.212:8000
 ```
 
-# System Architecture
-![System Architecture](hld.drawio.svg)
-
-# Component Level Architecture
-![Component Level Architecture](lld.drawio.svg)
 
 
 # CURL -
@@ -97,6 +92,12 @@ curl --location 'http://34.46.28.212:8000/api/status/89652507-c97a-43d1-8dd1-03a
 
 # Implmentation
 ![Implmentation](implementation.drawio.svg)
+
+# System Architecture
+![System Architecture](hld.drawio.svg)
+
+# Component Level Architecture
+![Component Level Architecture](lld.drawio.svg)
 
 
 #### happy coding @nullfox-coder
