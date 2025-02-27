@@ -86,6 +86,13 @@ curl --location 'http://34.46.28.212:8000/api/upload' \
 ```
 curl --location 'http://34.46.28.212:8000/api/status/89652507-c97a-43d1-8dd1-03a74e15d473'
 ```
+
+# System Architecture
+![System Architecture](hld.drawio.svg)
+
+# Component Level Architecture
+![Component Level Architecture](lld.drawio.svg)
+
 # Detailed System Architecture
 ![Detailed System Architecture](system.drawio.svg)
 
@@ -93,11 +100,6 @@ curl --location 'http://34.46.28.212:8000/api/status/89652507-c97a-43d1-8dd1-03a
 # Implmentation
 ![Implmentation](implementation.drawio.svg)
 
-# System Architecture
-![System Architecture](hld.drawio.svg)
-
-# Component Level Architecture
-![Component Level Architecture](lld.drawio.svg)
 
 
 #### happy coding @nullfox-coder
