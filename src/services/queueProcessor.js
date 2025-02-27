@@ -72,7 +72,7 @@ const processQueueJob = async (job) => {
 
     // Update request with processed products
     request.status = 'COMPLETED';
-    request.products = products; // Now correctly populated
+    request.products = products;
     request.completedAt = new Date();
     await request.save();
 

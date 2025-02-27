@@ -67,7 +67,7 @@ npm run dev
 ## I have Deployed my backend here(GCP) -
 
 ```
-'http://34.46.28.212:8000'
+http://34.46.28.212:8000
 ```
 
 # System Architecture
