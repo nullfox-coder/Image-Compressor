@@ -1,4 +1,4 @@
-# Project Title: Image Compressor Assignment
+# Project Title: Image Compressor
 
 ## Description
 This project is an image compression service that allows users to upload CSV files containing image data for processing. The service utilizes a queue system for handling requests and provides status updates for each processing request.
